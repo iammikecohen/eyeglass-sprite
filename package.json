@@ -1,0 +1,21 @@
+{
+  "name": "eyeglass-sprites",
+  "version": "0.0.0",
+  "description": "Sass eyeglass module",
+  "license": "MIT",
+  "repository": "iammikecohen/eyeglass-sprites",
+  "author": {
+    "name": "",
+    "email": "",
+    "url": "https://github.com/iammikecohen"
+  },
+  "files": [
+    "sass"
+  ],
+  "keywords": ["eyeglass-module", "sass"],
+  "main": "eyeglass-exports.js",
+  "dependencies": {
+    "eyeglass": "*",
+    "node-sprite-generator": "~0.8.1"
+  }
+}
